@@ -1,0 +1,8 @@
+python-telegram-bot
+openai
+requests
+python-dotenv
+gitpython
+apscheduler
+gTTS
+SpeechRecognition
